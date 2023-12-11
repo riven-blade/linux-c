@@ -22,3 +22,15 @@ https://zhuanlan.zhihu.com/p/419372683
 
 ### tty 终端  pty  pts 模拟终端
 https://zhuanlan.zhihu.com/p/42771810
+
+### 进程间通信
+1.  匿名管道
+2.  具名管道
+3.  共享内存
+4.  信号量 （加锁的 mutex 条件变量 cond）
+5.  消息队列  数据存储在内核中
+6.  套接字 unix socket
+7.  信号
+
+### 网络进程间通信
+1.  socket
